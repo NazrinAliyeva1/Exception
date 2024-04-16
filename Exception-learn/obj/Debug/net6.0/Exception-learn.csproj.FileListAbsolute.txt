@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\Exception-learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\Exception-learn.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\Exception-learn.AssemblyInfo.cs
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\Exception-learn.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\bin\Debug\net6.0\Exception-learn.exe
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\bin\Debug\net6.0\Exception-learn.deps.json
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\bin\Debug\net6.0\Exception-learn.runtimeconfig.json
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\bin\Debug\net6.0\Exception-learn.dll
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\bin\Debug\net6.0\Exception-learn.pdb
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\Exception-learn.dll
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\refint\Exception-learn.dll
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\Exception-learn.pdb
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\Exception-learn.genruntimeconfig.cache
+C:\Users\99455\source\repos\Exception-learn\Exception-learn\obj\Debug\net6.0\ref\Exception-learn.dll
